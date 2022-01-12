@@ -14,6 +14,7 @@
 		3F81B468278C992000A85571 /* To_Do_ListTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F81B467278C992000A85571 /* To_Do_ListTests.swift */; };
 		3F81B473278C992000A85571 /* To_Do_ListUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F81B472278C992000A85571 /* To_Do_ListUITests.swift */; };
 		3F81B481278F3CE500A85571 /* ToDoList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F81B480278F3CE500A85571 /* ToDoList.swift */; };
+		3F81B483278F3E4300A85571 /* AddItemView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F81B482278F3E4300A85571 /* AddItemView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		3F81B472278C992000A85571 /* To_Do_ListUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = To_Do_ListUITests.swift; sourceTree = "<group>"; };
 		3F81B474278C992000A85571 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		3F81B480278F3CE500A85571 /* ToDoList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDoList.swift; sourceTree = "<group>"; };
+		3F81B482278F3E4300A85571 /* AddItemView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddItemView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 				3F81B455278C991B00A85571 /* To_Do_ListApp.swift */,
 				3F81B457278C991B00A85571 /* ContentView.swift */,
 				3F81B480278F3CE500A85571 /* ToDoList.swift */,
+				3F81B482278F3E4300A85571 /* AddItemView.swift */,
 				3F81B459278C991F00A85571 /* Assets.xcassets */,
 				3F81B45E278C991F00A85571 /* Info.plist */,
 				3F81B45B278C991F00A85571 /* Preview Content */,
@@ -265,6 +268,7 @@
 				3F81B458278C991B00A85571 /* ContentView.swift in Sources */,
 				3F81B481278F3CE500A85571 /* ToDoList.swift in Sources */,
 				3F81B456278C991B00A85571 /* To_Do_ListApp.swift in Sources */,
+				3F81B483278F3E4300A85571 /* AddItemView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
